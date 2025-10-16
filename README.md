@@ -1,1 +1,1 @@
-# command-line-chess
+# chess-engine
